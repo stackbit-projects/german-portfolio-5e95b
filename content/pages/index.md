@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: "\U0001F44B\U0001F3FB Soy Germán De Luca Developer"
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Estoy empezando mi carrera como desarrollador de software y te voy a
+      mostrar alguno de los proyectos en los cual trabajo
     actions:
       - label: Let's talk
         url: /contact
